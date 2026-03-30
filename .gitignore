@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environment
+myenv/
+venv/
+
+# OpenCV (IMPORTANT)
+opencv/
+opencv_contrib/
+
+# Outputs
+output/
+output_*/
+registration_comparison_output/
+synthetic_test_output/
+
+# Medical files
+*.dcm
+
+.vs/
+# VSCode
+.vscode/
+
+# Large files
+*.zip
+*.xlsx
+
+# Outputs
+output/
+output_*/
+
+# ECC / results
+ECC/
+
+*.zip
+*.xlsx
+*.dcm
+output/
+output_*/
+ECC/
+myenv/
+opencv/
+opencv_contrib/
+.vs/
