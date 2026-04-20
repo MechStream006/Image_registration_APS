@@ -45,3 +45,10 @@ myenv/
 opencv/
 opencv_contrib/
 .vs/
+
+build/
+output/
+output_*/
+*.csv
+*.png
+__pycache__/
